@@ -55,3 +55,8 @@ portfolio_joaquin/
 - JavaScript
 - Google Fonts (Poppins e Inter)
 - GitHub Pages (opción de publicación)
+
+
+## Conclucion:
+
+Aunque me apoye bastante en la IA, para hacer este trabajo, puedo decir que me gusto y que me ayuda bastante a como hacer un portfolio mas profesional y mejor desarrollado en el futuro, ya con mejores ideas, mejores propuestas o mejores proyectos como los que tengo en la mente ahora.
