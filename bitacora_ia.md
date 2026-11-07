@@ -12,8 +12,8 @@
 - **¿Qué descarté y por qué?:** [descarte algunos textos y apartados que no representaban lo que queria mostrar en mi portfolio.]
 
 ## Consulta 2
-- **Fecha:** [COMPLETAR]
+- **Fecha:** [4/11]
 - **Herramienta utilizada:** ChatGPT
-- **Prompt completo:** ["Quiero modificar el portfolio para darle mas protagonismo al color morado combinado con negro, manteniendo una buena armonía visual. Tambien quiero añadirle detalles Lo-Fi y un estilo elegante y profesional, sin utilizar RGB ni efectos exagerados. ademas, quiero cambiar algunos titulos, eliminar secciones que ya no necesito, reemplazar uno de los proyectos por mi videojuego de El Eternauta y agregar dos cursores personalizados mediante imagenes PNG."]
+- **Prompt completo:** ["Quiero modificar el portfolio para darle mas protagonismo al color morado combinado con negro, manteniendo una buena armonía visual. Tambien quiero añadirle detalles Lo-Fi y un estilo elegante y profesional, sin utilizar RGB ni efectos exagerados. ademas, quiero reemplazar uno de los proyectos por mi videojuego de El Eternauta y agregar dos cursores personalizados mediante imagenes PNG."]
 - **Parte utilizada:** Las modificaciones de las variables de color en CSS, los estilos de las tarjetas de proyectos, los cambios de titulos y añadi cursores personalizados.
 - **Cambios realizados por mí:** [saque titulos, textos e informacion no tan util para la pagina  ]
